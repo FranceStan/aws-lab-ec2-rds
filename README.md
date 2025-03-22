@@ -1,8 +1,6 @@
 # aws-lab-ec2-rds
 Laboratoire AWS basé sur une architecture EC2 - RDS avec VPC, Security Groups et Subnets
 
-Voici un bon fichier `README.md` pour ton repository GitHub, qui met en avant ton laboratoire AWS basé sur l'architecture EC2 et Aurora RDS. Il inclut une présentation du projet, les prérequis, les instructions de déploiement et des captures d’écran.
-
 ---
 
 ### 📌 **README.md - AWS Lab EC2 & Aurora RDS**  
@@ -41,7 +39,7 @@ Avant de commencer, assurez-vous d’avoir :
 ## 🚀 **Déploiement de l’Infrastructure**
 ### 1️⃣ **Cloner ce repository**
 ```bash
-git clone https://github.com/TON-NOM-D-UTILISATEUR/aws-lab-ec2-rds.git
+git clone  https://github.com/FranceStan/aws-lab-ec2-rds.git
 cd aws-lab-ec2-rds
 ```
 
